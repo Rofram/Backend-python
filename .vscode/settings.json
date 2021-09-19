@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "venv/bin/python3",
+  "cSpell.words": [
+    "paren",
+    "pytest",
+    "venv"
+  ],
+  "python.linting.pylintEnabled": true
+}
